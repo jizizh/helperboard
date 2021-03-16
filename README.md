@@ -47,7 +47,3 @@ CPU：64 位 4 核 A53 最高主频：1.1GHz 、内存：1GB、存储：8G EMMC 
 #### helperboard-a133开发板
 
 研发中。。。
-
-#### helperboard-t507开发板
-
-研发中。。。
