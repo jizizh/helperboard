@@ -3,10 +3,11 @@
 ### 环境：
 
 - 芯片：全志a64　　
-- 开发板：[HelperBoard-A64](https://item.taobao.com/item.htm?spm=a230r.1.14.27.6f7076ffgIj8Ws&id=563738220031&ns=1&abbucket=3#detail)
-- 公司：[百杰科技](https://www.szbaijie.com/)
 - 内核：Linux3.10内核
 - 主机：ubuntu16.04
+- 开发板：[HelperBoard-A64](https://item.taobao.com/item.htm?spm=a230r.1.14.27.6f7076ffgIj8Ws&id=563738220031&ns=1&abbucket=3#detail)
+- 公司：[百杰科技](https://www.szbaijie.com/)
+- github：[Baijie  Technology](https://github.com/jizizh/baijie_blog)
 
 ### 一、下载ubuntucore文件系统
 
@@ -400,7 +401,3 @@ vi rootfs/etc/apt/sources.list
 ### 十、总结
 
 在制作的过程中会遇到麻烦和挫折，多去查资料和操作就能成功，在此基础上可以搞出更多的功能。
-
- 
-
- 
