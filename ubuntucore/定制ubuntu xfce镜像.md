@@ -105,7 +105,7 @@ exit
 ./ch-mount.sh -u rootfs/
 ```
 
-**==注：如果退出虚拟根文件系统没有执行./mount.sh -u rootfs而重复执行执行./mount.sh -m rootfs。将会导致系统出故障，只能重新启动电脑，然后才能进入虚拟根文件系统。==**
+**注：如果退出虚拟根文件系统没有执行./mount.sh -u rootfs而重复执行执行./mount.sh -m rootfs。将会导致系统出故障，只能重新启动电脑，然后才能进入虚拟根文件系统。**
 
 ### 三、安装必要软件
 
@@ -161,7 +161,7 @@ passwd szbaijie
 passwd root
 ```
 
-**==注：在 root 用户下给 szbaijie 增加 sudo 用户权限。vi 进入/etc/sudoers/中在 root 一行下面加入内容：szbaijie ALL=(ALL:ALL) ALL==**
+**注：在 root 用户下给 szbaijie 增加 sudo 用户权限。vi 进入/etc/sudoers/中在 root 一行下面加入内容：szbaijie ALL=(ALL:ALL) ALL**
 
 ### 五、解决问题
 
@@ -391,8 +391,7 @@ cd ubuntucore/
 vi rootfs/etc/apt/sources.list
 ```
 
-**vi 进入 sources.list 时，命令行模式下输入下面命令一键替换源：
-**
+**vi 进入 sources.list 时，命令行模式下输入下面命令一键替换源：**
 
 ```shell
 :%s/ports.ubuntu.com/mirrors.ustc.edu.cn/g
