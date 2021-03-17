@@ -7,7 +7,7 @@
 - 主机：ubuntu16.04
 - 开发板：[helperboard a64](https://item.taobao.com/item.htm?spm=a230r.1.14.27.6f7076ffgIj8Ws&id=563738220031&ns=1&abbucket=3#detail)
 - 公司：[百杰科技](https://www.szbaijie.com/)
-- github：[Baijie Technology](https://github.com/jizizh/baijie_blog)
+- github：[Baijie Technology](https://github.com/jizizh/helperboard.git)
 
 ### 一、helloworld.ko
 
