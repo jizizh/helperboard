@@ -1,3 +1,14 @@
+## 在helperboard a64下修改开机bootlogo的BUG**
+
+### 环境：
+
+- 芯片：全志a64　　
+- 内核：Linux3.10内核
+- 主机：ubuntu16.04
+- 开发板：[helperboard a64](https://item.taobao.com/item.htm?spm=a230r.1.14.27.6f7076ffgIj8Ws&id=563738220031&ns=1&abbucket=3#detail)
+- 公司：[百杰科技](https://www.szbaijie.com/)
+- github：[Baijie Technology](https://github.com/jizizh/helperboard.git)
+
 ### 声卡调试
 
 通过amixer来配置我们a64内核4.9的声卡，效果如下:
