@@ -1,4 +1,4 @@
-## 在helperboard a64下修改开机bootlogo的BUG**
+## 在helperboard a64下修改声卡
 
 ### 环境：
 
